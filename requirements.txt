@@ -1,0 +1,2 @@
+djongo==1.2.32
+djongo-mongo-version-fix==1.2.32
